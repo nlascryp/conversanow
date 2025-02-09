@@ -3,5 +3,10 @@
   "symbol": "CONW",
   "description": "In a world of constant turbulence, where life’s challenges never cease to test us, Conversanow emerges as a guiding",
   "image": "https://ipfs.io/ipfs/bafkreiblsjfwnttbstcj2vyczi5gmb3kudbuih3wb5sunjylj7kzw4gwx4",
-  "external_url": "https://conversanow.app"
+  "external_url": "https://conversanow.app",
+  "extensions": {
+    "twitter": "https://x.com/conversaNow",
+    "telegram": "https://t.me/conversanow",
+    "coinmarketcapUrl": "https://coinmarketcap.com/dexscan/solana/3tGbdfAkEdZkS922VGyXoYyqkhJQhTL1xdGb5Y9MNzFJ"
+  }
 }
